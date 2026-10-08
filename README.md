@@ -1,2 +1,3 @@
 # gas-audit-meetflow
 meetflow app
+MeetFlow CRM es una solución de gestión empresarial integral diseñada sobre la infraestructura de Google Workspace (Google Sheets, Apps Script, Drive y Docs). Su propósito fundamental es la centralización de auditorías laborales, el control de asistencia, el seguimiento de soporte técnico y la generación de actas ejecutivas. El sistema integra un motor transaccional robusto con una interfaz de usuario moderna (Tailwind CSS) para facilitar el registro de personal y actividades operativas, proporcionando analíticas en tiempo real a través de un panel ejecutivo y herramientas de exportación masiva de datos en formatos Excel y PDF.
